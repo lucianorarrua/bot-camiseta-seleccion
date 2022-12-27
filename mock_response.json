@@ -1,0 +1,48 @@
+{
+    "id": "IB3593",
+    "availability_status": "PREVIEW",
+    "variation_list": [
+        {
+            "sku": "IB3593_185",
+            "size": "XS",
+            "availability": 0,
+            "availability_status": "NOT_AVAILABLE"
+        },
+        {
+            "sku": "IB3593_195",
+            "size": "S",
+            "availability": 0,
+            "availability_status": "NOT_AVAILABLE"
+        },
+        {
+            "sku": "IB3593_205",
+            "size": "M",
+            "availability": 0,
+            "availability_status": "NOT_AVAILABLE"
+        },
+        {
+            "sku": "IB3593_210",
+            "size": "L",
+            "availability": 0,
+            "availability_status": "NOT_AVAILABLE"
+        },
+        {
+            "sku": "IB3593_220",
+            "size": "XL",
+            "availability": 1,
+            "availability_status": "PREVIEW"
+        },
+        {
+            "sku": "IB3593_230",
+            "size": "2XL",
+            "availability": 1,
+            "availability_status": "PREVIEW"
+        },
+        {
+            "sku": "IB3593_235",
+            "size": "3XL",
+            "availability": 0,
+            "availability_status": "NOT_AVAILABLE"
+        }
+    ]
+}
