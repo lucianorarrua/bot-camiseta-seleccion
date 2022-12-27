@@ -12,7 +12,7 @@
 
 ## ¿Que hace?
 
-Cada cierto tiempo (definido en `CHECK_INTERVAL`) consulta la API de adidas para ver si hay disponibilidad de la camiseta. En este momento aparece un mensaje "fetching... <FECHA Y HORA>".
+Cada cierto tiempo (definido en `CHECK_INTERVAL`) consulta la API de adidas para ver si hay disponibilidad de la camiseta. En este momento aparece un mensaje "fetching... (FECHA Y HORA)".
 
 Si no hay disponibilidad, no muestra nada.
 

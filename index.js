@@ -34,7 +34,7 @@ function printVariationAvailability(variationList = []) {
 
 async function checkAvailability() {
   try {
-    console.log(`fetching...${new Date().toLocaleString()}`);
+    console.log(`fetching... (${new Date().toLocaleString()})`);
     const axiosResponse = await axios.get(
       `https://www.adidas.com.ar/api/products/IB3593/availability`
     );
